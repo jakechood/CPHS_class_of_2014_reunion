@@ -85,3 +85,8 @@ body {
     transform: scale(1.5);
     padding: 1.5rem;
   }
+
+  #qrCode {
+    padding: 2rem;
+    width: 50%;
+  }
